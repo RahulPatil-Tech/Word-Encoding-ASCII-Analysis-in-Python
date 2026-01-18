@@ -1,3 +1,8 @@
+
+<img width="1152" height="896" alt="Quant" src="https://github.com/user-attachments/assets/7b7e2bc1-1aa7-4a01-90f1-400cc08fdc96" />
+
+----------
+
 # 🔤 Word Encoding & ASCII Analysis in Python
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
